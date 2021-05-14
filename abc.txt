@@ -1,7 +1,3 @@
 abc file
 new file
 my new file name is abc file.
-My file ext is txt
-jdhfgg
-fgfgf
-
