@@ -1,2 +1,6 @@
 abc file
 new file
+
+
+
+This is after merge conflict resolve
